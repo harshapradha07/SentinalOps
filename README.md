@@ -59,6 +59,8 @@ The system demonstrates:
 
 ---
 
+
+
 ## 🔍 Key Features
 
 ### 🧠 Learning Incident Memory
@@ -246,3 +248,5 @@ Instead of allowing valuable operational knowledge to disappear into tickets, lo
 ### Detect. Remember. Resolve. Learn.
 
 **SentinelOps AI — Turning incident history into operational intelligence.**
+
+**project link:- https://sentinelopsai.netlify.app/**
