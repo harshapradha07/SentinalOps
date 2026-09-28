@@ -1,0 +1,6 @@
+{
+  "name": "SentinelOps AI - Intelligent Incident Response & Learning Agent",
+  "description": "Organizational incident memory and learning agent for SRE teams. Prevents production outages from teaching the same lesson twice by correlating historical root causes, failed attempts, and proven runbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
